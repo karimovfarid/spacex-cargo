@@ -1,0 +1,44 @@
+.spacex-shipment-details {
+  padding: 50px;
+  background: #2D3038;
+  border-radius: 30px;
+  @media screen and (max-width: 767px) {
+    padding: 20px;
+  }
+  @media (min-width: 767px) {
+    height: calc(100% - 88px)
+  }
+  .form-group {
+    padding-top: 30px;
+  }
+
+  &-title {
+    font-weight: 400;
+    font-size: 64px;
+    margin: 0;
+    line-height: 1;
+    @media screen and (max-width: 767px) {
+      font-size: 28px;
+    }
+  }
+
+  &_bays {
+    font-size: 34px;
+    margin: 30px 0 0 0;
+    @media screen and (max-width: 767px) {
+      font-size: 18px;
+      text-align: center;
+    }
+
+    &-count {
+      font-size: 56px;
+      margin: 0;
+      line-height: 1;
+      margin-bottom: 10px;
+      @media screen and (max-width: 767px) {
+        font-size: 34px;
+        text-align: center;
+      }
+    }
+  }
+}

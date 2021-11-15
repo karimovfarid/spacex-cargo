@@ -1,0 +1,66 @@
+{
+  "companies": {
+    "data": [
+      {
+        "id": "e40b72",
+        "name": "Walmart",
+        "email": "contact@walmart.com",
+        "boxes": "3.3,3,3.2,1.6,5.4,2.1,2.7,4.6"
+      },
+      {
+        "id": "84674be8",
+        "name": "Exxon Mobil",
+        "email": "contact@exxonmobil.com",
+        "boxes": "6,5.4,2.1"
+      },
+      {
+        "id": "34554e30e6ac1a4",
+        "name": "Apple",
+        "email": "contact@apple.com",
+        "boxes": "9.6,3.5"
+      },
+      {
+        "id": "7ac25980a066",
+        "name": "Berkshire Hathaway",
+        "email": "contact@berkshirehathaway.com",
+        "boxes": "2.1,3.9,5.3,3.3,7.1"
+      },
+      {
+        "id": "d3ff0c68892",
+        "name": "Amazon.com",
+        "email": "contact@amazon.com",
+        "boxes": "6.8,7.9,3.6,8.8,4.8,9.4"
+      },
+      {
+        "id": "f0427677ad30dfae35",
+        "name": "UnitedHealth Group",
+        "email": "contact@unitedhealthgroup.com",
+        "boxes": "2.3,3.7,8.6,6.5,8,9.8,1.4"
+      },
+      {
+        "id": "2956dd9db349d3",
+        "name": "McKesson",
+        "email": "contact@mckesson.com",
+        "boxes": "5.1,3.7"
+      },
+      {
+        "id": "b324c2c616c5b139d58d",
+        "name": "CVS Health",
+        "email": "contact@cvshealth.com",
+        "boxes": "8.3,6.4,9.8,2.4,6.1,0.2,9.2,6.5"
+      },
+      {
+        "id": "5056862",
+        "name": "AT&T",
+        "email": "contact@att.com",
+        "boxes": "9.1,2.3,1.8,7.5,8.7,5.2"
+      },
+      {
+        "id": "b06e1755de81ea32c6cb",
+        "name": "AmerisourceBergen",
+        "email": "contact@amerisourcebergen.com",
+        "boxes": "1.8,6.1,3"
+      }
+    ]
+  }
+}
